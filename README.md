@@ -1,10 +1,9 @@
 # Clustering-for-Football-Recruitment
-
-Aims
+ 
 The aim of this project was to enable recruitment teams to identify similar players to any given player.
 This will save scouts time watching unsuitable players and allow a global player search
 
-Method
+
 Uses kmeans clustering to group similar players based on their football manager stats
 Uses linear regression to estimate player value based on transfermarkt data
 
